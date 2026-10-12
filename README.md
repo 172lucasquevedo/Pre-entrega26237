@@ -24,3 +24,4 @@ Sitio web para un restaurante y e-commerce gastronómico con diseño responsivo,
 - **HTML5**
 - **CSS3**
 - **Git & GitHub** (con GitHub Pages para el despliegue)
+
